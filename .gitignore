@@ -1,0 +1,8 @@
+*.jpg
+!pics/*.jpg
+*.pyc
+*.pt
+*.ipynb
+data/
+*.mp4
+*::Zone.Identifier
